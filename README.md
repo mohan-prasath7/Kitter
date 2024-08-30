@@ -11,8 +11,6 @@ Kitter is an online pet food shop website, functioning as a full-fledged e-comme
 
 ## 🚀 Live Preview
 
-Check out the live preview of Kitter here:
-
-[🔗 Live Preview] [Live Preview](https://prasath-kitter-app.netlify.app/)
+Check out the live preview of Kitter here: [Live Preview](https://prasath-kitter-app.netlify.app/)
 
 
